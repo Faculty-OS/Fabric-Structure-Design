@@ -8,13 +8,13 @@ Academic repository and study materials for Fabric Structure & Design
 > Credit: 3.0
 > Part: B
 
-| [![develop-with-arnob](<https://img.shields.io/badge/Maintained%20by-Arnob%20Mahmud-1f425f.svg?style=plastic&logo=visual-studio-code&logoColor=007ACC&labelColor=c3c4d5&color=193507>)](https://github.com/ArnobMahmud/) |
+| [![develop-with-arnob](<https://img.shields.io/badge/Maintained%20by-Arnob%20Mahmud-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=c3c4d5&color=193507>)](https://github.com/ArnobMahmud/) |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![GitHub stars](https://img.shields.io/github/stars/Faculty-OS/Fabric-Structure-Design?style=plastic&logo=github) | ![GitHub forks](https://img.shields.io/github/forks/Faculty-OS/Fabric-Structure-Design?style=plastic&logo=github) | ![GitHub issues](https://img.shields.io/github/issues/Faculty-OS/Fabric-Manufacturing?style=plastic&logo=github) |
+| ![GitHub stars](https://img.shields.io/github/stars/Faculty-OS/Fabric-Structure-Design?style=for-the-badge&logo=github) | ![GitHub forks](https://img.shields.io/github/forks/Faculty-OS/Fabric-Structure-Design?style=for-the-badge&logo=github) | ![GitHub issues](https://img.shields.io/github/issues/Faculty-OS/Fabric-Manufacturing?style=for-the-badge&logo=github) |
 | :---------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- |
 
-| ![Last commit](https://img.shields.io/github/last-commit/Faculty-OS/Fabric-Structure-Design?style=plastic&logo=github) |
+| ![Last commit](https://img.shields.io/github/last-commit/Faculty-OS/Fabric-Structure-Design?style=for-the-badge&logo=git) |
 | :--------------------------------------------------------------------------------------------------------------------- |
 
 ## 📝 Description
@@ -113,3 +113,19 @@ Contributions are welcome! Here's the standard flow:
 4. **Commit**: `git commit -m 'feat: add some feature'`
 5. **Push**: `git push origin feature/your-feature`
 6. **Open** a pull request
+
+## 📢 Social
+
+<div align="center">
+    
+<p>
+  <a href="https://discord.com/users/arnobmahmud">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/arnob-mahmud">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+</div>
