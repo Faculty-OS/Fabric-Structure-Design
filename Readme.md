@@ -25,10 +25,10 @@ The repository is partitioned into focused directories reflecting core academic 
 
 This collection provides textile engineering students and course instructors with direct access to curriculum blueprints and study materials required throughout the academic term.
 
-|  |  |
-| :- | :- |
-|  |  |
-|  |  |
+|<img src="https://github.com/user-attachments/assets/47a80fac-c4ac-4932-ad4e-19fdf3b7d94a">|<img src="https://github.com/user-attachments/assets/3ba37695-57f3-4c38-a7cf-ca599e9b691c">|
+|:------ |:------|
+|<img src="https://github.com/user-attachments/assets/1224ccce-b77d-4156-8ef8-0cf16aedbf29">|<img src="https://github.com/user-attachments/assets/e9f61cb2-55c6-4a26-9e2c-1a8116452143">|
+|<img src="https://github.com/user-attachments/assets/f5c0f74c-97c8-4530-8d85-ec63fc88222e">|<img src="https://github.com/user-attachments/assets/cf4f77b3-1dfa-4d95-824f-1ae134278026">|
 
 ## 📑 Course Materials
 
