@@ -3,9 +3,9 @@
 
 Academic repository and study materials for Fabric Structure & Design
 
-> Course Title: Fabric Structure & Design
-> Course Code: FE 305-0723
-> Credit: 3.0
+> Course Title: Fabric Structure & Design <br>
+> Course Code: FE 305-0723 <br>
+> Credit: 3.0 <br>
 > Part: B
 
 | [![develop-with-arnob](<https://img.shields.io/badge/Maintained%20by-Arnob%20Mahmud-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=c3c4d5&color=193507>)](https://github.com/ArnobMahmud/) |
@@ -76,20 +76,15 @@ Assignment/
 .
 ├── Chapters
 │   ├── Chapter 1
-│   │   ├── Fancy Designs.pdf
-│   │   └── Fancy Weaves.xlsx
+│   │   └── Fancy Designs.pdf
 │   ├── Chapter 2
-│   │   ├── Color & Weave Effects.pdf
-│   │   └── Color & Weave Effects.xlsx
+│   │   └── Color & Weave Effects.pdf
 │   ├── Chapter 3
-│   │   ├── Figuring With Extra Thread.pdf
-│   │   └── Extra Thread.xlsx
+│   │   └── Figuring With Extra Thread.pdf
 │   ├── Chapter 4 
-│   │   ├── Compound Fabrics.pdf
-│   │   └── Multi Ply.xlsx
+│   │   └── Compound Fabrics.pdf
 │   ├── Chapter 5 
-│   │   ├── Double Cloths.pdf
-│   │   └── Double Cloths.xlsx
+│   │   └── Double Cloths.pdf
 │   └── Chapter 6 
 │       └── Commercial Fabrics.pdf
 ├── OBE Curriculum
