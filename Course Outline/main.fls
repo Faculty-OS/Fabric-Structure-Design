@@ -1,0 +1,89 @@
+PWD e:\Academia\Theory Course\Fabric Structure and Design (FSD)\Course Outline
+INPUT C:\Users\This Pc\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT e:\Academia\Theory Course\Fabric Structure and Design (FSD)\Course Outline\main.tex
+OUTPUT main.log
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\lm\lmodern.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\lm\lmodern.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr17.tfm
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT .\Sections\Ch01_Fancy_Designs.tex
+INPUT .\Sections\Ch01_Fancy_Designs.tex
+INPUT Sections\Ch01_Fancy_Designs.tex
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmr12.tfm
+OUTPUT main.pdf
+INPUT C:\Users\This Pc\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
+INPUT .\Sections\Ch02_Color_Weave_Effects.tex
+INPUT .\Sections\Ch02_Color_Weave_Effects.tex
+INPUT Sections\Ch02_Color_Weave_Effects.tex
+INPUT .\Sections\Ch03_Figuring_Extra_Thread.tex
+INPUT .\Sections\Ch03_Figuring_Extra_Thread.tex
+INPUT Sections\Ch03_Figuring_Extra_Thread.tex
+INPUT .\Sections\Ch04_Compound_Fabric.tex
+INPUT .\Sections\Ch04_Compound_Fabric.tex
+INPUT Sections\Ch04_Compound_Fabric.tex
+INPUT .\Sections\Ch05_Double_Cloth.tex
+INPUT .\Sections\Ch05_Double_Cloth.tex
+INPUT Sections\Ch05_Double_Cloth.tex
+INPUT .\Sections\Ch06_Commercial_Fabrics.tex
+INPUT .\Sections\Ch06_Commercial_Fabrics.tex
+INPUT Sections\Ch06_Commercial_Fabrics.tex
+INPUT main.aux
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\This Pc\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
