@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.15)  20 NOV 2026 22:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.15)  26 NOV 2026 12:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -213,7 +213,7 @@ Package microtype Info: No adjustment of character kerning.
 (C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 ) (Sections/Ch01_Fancy_Designs.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7.
  (C:\Users\This Pc\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )) [1
@@ -227,13 +227,13 @@ L3 programming layer <2025-12-24>
 Here is how much of TeX's memory you used:
  4353 strings out of 467871
  73554 string characters out of 5417371
- 526235 words of memory out of 5000000
+ 527235 words of memory out of 5000000
  33199 multiletter control sequences out of 15000+600000
  648560 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,1078b,314s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,65p,1078b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/This Pc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/This Pc/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
-Output written on main.pdf (3 pages, 66396 bytes).
+Output written on main.pdf (3 pages, 67195 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
