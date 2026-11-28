@@ -72,26 +72,49 @@ Assignment/
 
 ## 📁 Project Structure
 
-```
-.
-├── Chapters
-│   ├── Chapter 1
+```Fabric-Structure-Design/
+├── .gitignore
+├── Books/
+│   ├── Textile Design And Colour by Watson.pdf
+│   └── Understanding Textiles For A Merchandiser.pdf
+├── Chapters/
+│   ├── Chapter 1/
 │   │   └── Fancy Designs.pdf
-│   ├── Chapter 2
+│   ├── Chapter 2/
 │   │   └── Color & Weave Effects.pdf
-│   ├── Chapter 3
+│   ├── Chapter 3/
 │   │   └── Figuring With Extra Thread.pdf
-│   ├── Chapter 4 
+│   ├── Chapter 4/
 │   │   └── Compound Fabrics.pdf
-│   ├── Chapter 5 
+│   ├── Chapter 5/
 │   │   └── Double Cloths.pdf
-│   └── Chapter 6 
+│   └── Chapter 6/
 │       └── Commercial Fabrics.pdf
-├── OBE Curriculum
+├── Course Outline/
+│   ├── Docs/
+│   │   └── FSD Part B Course Outline.pdf
+│   ├── main.aux
+│   ├── main.fdb_latexmk
+│   ├── main.fls
+│   ├── main.log
+│   ├── main.pdf
+│   ├── main.synctex.gz
+│   ├── main.tex
+│   └── Sections/
+│       ├── Ch01_Fancy_Designs.tex
+│       ├── Ch02_Color_Weave_Effects.tex
+│       ├── Ch03_Figuring_Extra_Thread.tex
+│       ├── Ch04_Compound_Fabric.tex
+│       ├── Ch05_Double_Cloth.tex
+│       ├── Ch06_Commercial_Fabrics.tex
+│       └── Faculty.tex
+├── OBE Curriculum/
 │   └── FE 305-0723.pdf
-└── Utilitiess
+├── Readme.md
+└── Utilities/
     ├── FSD Graph.pdf
     └── Highlighter Ref.jpeg
+
 ```
 
 ## 📖 Topics Analyzed
@@ -106,6 +129,7 @@ Chapter 1: Fancy Designs
  - Distorted Weft
  - Plain Face Bedford Cord
  - Wadded Bedford Cord
+ - Twill Face Bedford Cord
  - Ordinary Pique
  - Loose Back Wadded Welt
  - Fast Back Welt
@@ -126,6 +150,7 @@ Chapter 2: Color & Weave Effects
  - Compound Color & Weave Effects
   • Stripe Effect
   • Cross-over Effect
+  • Check Effect
 
 Chapter 3: Figuring With Extra Thread
  - Extra Warp Design
